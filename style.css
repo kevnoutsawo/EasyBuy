@@ -4183,3 +4183,9 @@ blockquote{
 .cent{
     text-align:center;
 }
+
+/* Login register dropdowns */
+ul li {
+    display: inline-block;
+    list-style-type: none;
+}
