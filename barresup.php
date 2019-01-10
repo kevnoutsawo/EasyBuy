@@ -4,7 +4,7 @@
     <div class="container">
         <ul class="top-support"> 
             <li><i class="fa fa-phone-square"></i><span>(+237) 6 99 99 99 99</span></li>
-            <li><a href=""><i class="fa fa-envelope-square"></i><span>info@easybuy.com</span></a></li>
+            <li><a href="mailto:info@easybuy.com"><i class="fa fa-envelope-square"></i><span>info@easybuy.com</span></a></li>
         </ul>
         <!--
         <div class="top-offers">
@@ -24,9 +24,6 @@
                       <h3><b>Créer mon compte</b></h3></div>
                     <form action="" method="post" role="form">
                       <div class="form-group">
-                        <input type="text" name="username" id="username" tabindex="1" class="form-control" placeholder="Nom d'utilisateur">
-                      </div>
-                      <div class="form-group">
                         <input type="email" name="email" id="email" tabindex="2" class="form-control" placeholder="Email">
                       </div>
                       <div class="form-group">
@@ -38,7 +35,7 @@
                       <div class="form-group">
                         <div class="row">
                           <div class="col-xs-6 col-xs-offset-3">
-                            <input type="submit" name="register-submit" id="register-submit" tabindex="4" class="form-control btn btn-info" value="Créer mon compte">
+                            <input type="submit" name="register-submit" id="register-submit" tabindex="4" class="form-control btn btn-info" value="Créer">
                           </div>
                         </div>
                       </div>

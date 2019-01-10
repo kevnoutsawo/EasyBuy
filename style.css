@@ -57,6 +57,7 @@ blockquote{
 }
 .top{
     background:#403e72;
+    padding: -10px;
 }
 .welcome{
     color: #1c1c1c;
@@ -72,7 +73,7 @@ blockquote{
 }
 .top-support{
     margin:0;
-    padding:15px 0;
+    padding:5px 0;
     float:left;
 }
 .top-support li{
@@ -123,7 +124,7 @@ blockquote{
 }
 .top-control{
     float:right;
-    padding:15px 0;
+    padding:5px 0;
 }
 .homepage-2.gold .top-control{
     float:right;
@@ -182,7 +183,7 @@ blockquote{
     -webkit-transition: all .3s ease;
 }
 #believe-nav{
-    padding:30px 0;
+    padding:5px 0;
 }
 .homepage-2 #believe-nav{
     padding:15px 0 35px;

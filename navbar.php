@@ -11,17 +11,16 @@
                             <span class="icon-bar"></span>
                             <span class="icon-bar"></span>
                         </button>
-                        <a class="navbar-brand" href="index.php">EasyBuy</a>
+                        <a class="navbar-brand" href="index.php"><img src="images\EasyBuy Logo.jpeg" alt="EasyBuy" style="height: 3em;"></a>
                     </div>
 
                     <!-- Collect the nav links, forms, and other content for toggling -->
                     <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
                         <ul class="nav navbar-nav">
-                            <li class="active"><a href="index.php">Accueil <span class="sr-only">(current)</span></a></li>
-                            <li><a href="blog.html">EasyBuy Logement</a></li>
+                            <li class="active"><a href="blog.html">EasyBuy Logement</a></li>
                             <li><a href="blog-detail.html">EasyBuy Transport</a></li>
                             <li><a href="blog-detail.html">Mon petit marché</a></li>
-                            <!-- <li><a href="blog-detail.html">Mes dépannages</a></li> -->
+                            <li><a href="blog-detail.html">Mes dépannages</a></li>
                         </ul>
                        
                         <ul class="nav navbar-nav navbar-right">
