@@ -3,7 +3,7 @@
 <div class="top"> <!-- top -->
     <div class="container">
         <ul class="top-support"> 
-            <li><i class="fa fa-phone-square"></i><span>(+237) 6 99 99 99 99</span></li>
+            <li><i class="fa fa-phone-square"></i><span>(+237) 699 445 994</span></li>
             <li><a href="mailto:info@easybuy.com"><i class="fa fa-envelope-square"></i><span>info@easybuy.com</span></a></li>
         </ul>
         <!--
@@ -47,7 +47,8 @@
               <li class="dropdown">
                 <a class="dropdown-toggle" data-toggle="dropdown">Connexion <span class="caret"></span></a>
                 <ul class="dropdown-menu dropdown-lr animated slideInRight" role="menu">
-                  <div class="col-sm-12">
+                  <div class="row">
+                    <div class="col-lg-12">
                     <div class="text-center">
                       <h3><b>Connexion</b></h3></div>
                     <form action="" method="post" role="form">
@@ -58,7 +59,7 @@
 
                       <div class="form-group">
                         <label for="password">Mot de passe</label>
-                        <input type="password" name="password" id="password" tabindex="2" class="form-control" placeholder="Mot de passe" autocomplete="off">
+                        <input type="password" name="password" tabindex="2" class="form-control" placeholder="Mot de passe" autocomplete="off">
                       </div>
 
                       <div class="form-group">
@@ -83,6 +84,7 @@
                         </div>
                       </div>
                     </form>
+                  </div>
                   </div>
                 </ul>
               </li>

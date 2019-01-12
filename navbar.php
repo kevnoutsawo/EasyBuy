@@ -27,8 +27,7 @@
                             <li class="menu-search-form">
                                 <a href="#" id="open-srch-form"><img src="images/srch.png" alt="srch"></a>
                             </li>
-                            <li><a href="wishlist.php"><img src="images/pav.png" alt="pav"><span>2</span></a></li>
-                            <li><a href="panier.php"><img src="images/bag.png" alt="bag"><span>2</span></a></li>
+                            <li><a href="panier.php"><i class="fa fa-shopping-cart fa-2x"></i><span class="badge badge-primary">2</span></a></li>
                             <li id="open-srch-form-mod">
                                 <div>
                                     <form class="side-search">

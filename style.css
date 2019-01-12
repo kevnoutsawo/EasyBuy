@@ -183,7 +183,7 @@ blockquote{
     -webkit-transition: all .3s ease;
 }
 #believe-nav{
-    padding:5px 0;
+    padding:8px 0;
 }
 .homepage-2 #believe-nav{
     padding:15px 0 35px;
@@ -305,8 +305,6 @@ blockquote{
     margin: 2px 0 0;
     font-size: 13px;
     border:none;
-    box-shadow:none;
-    border-radius: 0;
     
 }
 .dropdown-menu>li{
@@ -327,7 +325,7 @@ blockquote{
 }
 
 .dropdown-menu .sub-menu {
-    left: 100%;
+    left: 50%;
     position: absolute;
     top: 0;
     visibility: hidden;
@@ -4189,4 +4187,8 @@ blockquote{
 ul li {
     display: inline-block;
     list-style-type: none;
+}
+
+ul.dropdown-lr {
+  min-width: 300px;
 }

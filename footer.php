@@ -16,20 +16,22 @@
                                       <li><a href=""><i class="fa fa-instagram"></i></a></li>
                                       <li><a href=""><i class="fa fa-pinterest"></i></a></li>
                                   </ul>
-                                  <div class="clearfix"></div>
+                                  <div class="clearfix">
+                                    <a href="#"><img width="150px" src="images\google-play-badge.png"></a>
+                                      <a href="#"><img width="130px" src="images\appstore-badge.png"></a>
+                                  </div>
                               </div>
                           </div>
                           <div class="col-md-2">
                               <div class="quick-links">
                                   <div class="wid-title">Carte du site</div>
-                                  <ul>
-                                      <li><a href="index.html">Accueil</a></li>
-                                      <li><a href="#">Logement</a></li>
-                                      <li><a href="contact.html">Transport</a></li>
-                                      <li><a href="#">Divers</a></li>
-                                      <li><a href="blog.html">Blog</a></li>
-                                      <li><a href="#">Aide</a></li>
-                                  </ul>
+                                  <p>
+                                      <a href="index.html">Accueil</a><br/><br/>
+                                      <a href="#">Logement</a><br/><br/>
+                                      <a href="contact.html">Transport</a><br/><br/>
+                                      <a href="#">Divers</a><br/><br/>
+                                      
+                                  </p>
                               </div>
                           </div>
                           <div class="col-md-2">
@@ -75,7 +77,7 @@
               </div>
               <div class="footer-text">
                   <div class="container">
-                      <p>Copyright EasyBuy 2018.</p>
+                      <p>Copyright &copy EasyBuy 2018.</p>
                   </div>
               </div>
           </div><!-- Footer -->

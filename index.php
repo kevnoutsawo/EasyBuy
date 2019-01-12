@@ -71,7 +71,7 @@
                       </div>
                   </div>
                   <div class="item">
-                      <img src="images/cam-bowers.jpg" alt="slide-4" class="img-responsive">
+                      <img src="images/cam-bowers.jpg" alt="slide-4" height="680px" class="img-responsive">
                       <div class="slider-desc">
                           <div class="container">
                               <div class="row">
