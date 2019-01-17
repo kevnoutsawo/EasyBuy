@@ -71,7 +71,6 @@
                       <h4 class="modal-title">Connexion</h4>
                     </div>
                     <div class="modal-body">
-                      <div class="col-lg-12">
                         <div class="text-center">
                           <form action="" method="post" role="form">
                             <div class="form-group">
@@ -91,7 +90,7 @@
                                   <label for="remember"> Se souvenir de moi</label>
                                 </div>
                                 <div class="col-xs-5 pull-right">
-                                  <input type="submit" name="login-submit" id="login-submit" tabindex="4" class="form-control btn btn-success" value="Go!">
+                                  <input type="submit" name="login-submit" id="login-submit" tabindex="4" class="form-control btn btn-success" value="Me connecter">
                                 </div>
                               </div>
                             </div>
@@ -107,7 +106,6 @@
                             </div>
                           </form>
                         </div>
-                      </div>
                     </div>
                     <div class="modal-footer">
                       <button type="button" class="btn btn-default" data-dismiss="modal">Fermer</button>
