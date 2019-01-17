@@ -73,7 +73,7 @@ blockquote{
 }
 .top-support{
     margin:0;
-    padding:5px 0;
+    padding:10px 0;
     float:left;
 }
 .top-support li{
@@ -682,8 +682,12 @@ blockquote{
 }
 .cat-inner{
     display:inline-block;
-    
 }
+
+.cat-desc{
+    background-color: rgba(255, 255, 255, 0.3);
+}
+
 .cat-sec-1 .cat-desc{
     float:left;
     top:13%;
@@ -752,7 +756,7 @@ blockquote{
     text-align:center;
 }
 .cat-sec-1 .cat-desc .cat-title, .cat-sec-2 .cat-desc .cat-title, .cat-sec-3 .cat-desc .cat-title{
-    color:#2a2930 ;
+    color: #66cef6;
     font-weight: 500;
     text-transform:uppercase;
     line-height: normal;
@@ -884,13 +888,13 @@ blockquote{
     margin-bottom:25px;
 }
 .cat-sec-1 .cat-desc .cat-title{
-    font-size: 64px;
+    font-size: 46px;
 }
 .cat-sec-2 .cat-desc .cat-title{
     font-size: 46px;
 }
 .cat-sec-3 .cat-desc .cat-title{
-    font-size: 38px;
+    font-size: 46px;
 }
 .cat-sec-1 .cat-desc .cat-title span, .cat-sec-2 .cat-desc .cat-title span, .cat-sec-3 .cat-desc .cat-title span{
     color:#79797f  ;

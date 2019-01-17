@@ -11,16 +11,18 @@
                             <span class="icon-bar"></span>
                             <span class="icon-bar"></span>
                         </button>
-                        <a class="navbar-brand" href="index.php"><img src="images\EasyBuy Logo.jpeg" alt="EasyBuy" style="height: 3em;"></a>
+                        <a class="navbar-brand" href="index.php"><img src="images\buy 3.png" alt="EasyBuy" style="height: 3em;"></a>
                     </div>
 
                     <!-- Collect the nav links, forms, and other content for toggling -->
                     <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
                         <ul class="nav navbar-nav">
-                            <li class="active"><a href="blog.html">EasyBuy Logement</a></li>
-                            <li><a href="blog-detail.html">EasyBuy Transport</a></li>
-                            <li><a href="blog-detail.html">Mon petit marché</a></li>
-                            <li><a href="blog-detail.html">Mes dépannages</a></li>
+                            <li class="active"><a href="logement.php">Logement</a></li>
+                            <li><a href="transport.php">Transport</a></li>
+                            <li><a href="electro.php">Electronique</a></li>
+                            <li><a href="mon-marche.php">Mon petit marché</a></li>
+                            <li><a href="mes-depanages.php">Mes dépannages</a></li>
+
                         </ul>
                        
                         <ul class="nav navbar-nav navbar-right">
@@ -77,11 +79,12 @@
     </div>
   </div>-->
 
+  <!-- Uncomment to enable second menu 
   <div id="cat-nav">
   <div class="container">
     <nav class="navbar navbar-default">
         <!-- <div class="container-fluid"> -->
-        <!-- Brand and toggle get grouped for better mobile display -->
+        <!-- Brand and toggle get grouped for better mobile display 
         <div class="navbar-header">
             <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#cat-nav-mega">
                 <span class="sr-only">Toggle navigation</span>
@@ -91,7 +94,7 @@
             </button>
         </div>
 
-        <!-- Collect the nav links, forms, and other content for toggling -->
+        <!-- Collect the nav links, forms, and other content for toggling 
         <div class="collapse navbar-collapse" id="cat-nav-mega">
             <ul class="nav navbar-nav">
                 <li class="active"><a href="index.html">ELECTRONIQUE</a></li>
@@ -230,7 +233,7 @@
                 <li><a href="contact.html">AUTRES BOUTIQUES </a></li>
                 <li><a href="contact.html">DIVERS </a></li>
             </ul>
-             
+        -->     
         </div><!-- /.navbar-collapse -->
         <!--</div> -->
     </nav>
